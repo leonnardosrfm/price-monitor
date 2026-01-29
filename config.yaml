@@ -1,0 +1,8 @@
+check_interval_seconds: 300
+
+items:
+  - name: "RTX 5060 8GB Triple Fan"
+    url: "https://www.kabum.com.br/produto/776930/placa-de-video-palit-geforce-rtx-5060-infinity-3-oc-nvidia-geforce-8gb-gddr7-128bits-fp4-e-dlss-4-ray-tracing-ne75060t19p1-gb2063s"
+    price_selector: "div.border-black-400 > h4"
+    notify_on_drop: true
+    drop_threshold_percent: 3
