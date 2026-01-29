@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente (segredos)
+.env
+
+# Banco de dados local
+prices.db
+
+# Cache Python
+__pycache__/
+*.pyc
